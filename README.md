@@ -859,12 +859,7 @@ This project is created for educational purposes.
 
 ---
 
-## 👨‍💻 Developer
 
-**K Mohan**
-- GitHub: [@k-mohan-7](https://github.com/k-mohan-7)
-
----
 
 ## 📞 Support
 
