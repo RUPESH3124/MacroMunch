@@ -217,7 +217,7 @@ Updated UI (User sees result)
 #### 1. **Clone or Download Project**
 ```bash
 cd C:\xampp\htdocs
-git clone https://github.com/k-mohan-7/MacroMunch.git
+git clone https://github.com/RUPESH3124/MacroMunch.git
 cd MacroMunch
 ```
 
